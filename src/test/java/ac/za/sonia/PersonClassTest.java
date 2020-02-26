@@ -18,6 +18,9 @@ public class PersonClassTest {
     @Before
     public void setUp() throws Exception {
         personClass = new PersonClass();
+        personClass.setName("Sonia");
+        personClass.setSurname("Sontshatsha");
+        personClass.setAge(23);
     }
 
     @After
@@ -26,13 +29,13 @@ public class PersonClassTest {
 
     @Test
     public void getName() {
-        assertSame("your name", "Sonia Sontshatsha", "Sonia Sontshatsha");
-        assertEquals("name: ", "Sonia", "Sonia");
+        assertSame("your name",personClass.getName(), "Sonia");
+        assertEquals("name: ", personClass.getName(), "Sonia");
     }
 
     @Test
     public void getSurname() {
-        assertEquals("surname", "Sontshatsha", "Sontshantsha");
+        assertEquals("surname", personClass.getSurname(), "Sontshantsha");
 
     }
    /** @Test
@@ -44,7 +47,7 @@ public class PersonClassTest {
 
     @Test(timeout = 1000)
     public void getAge() {
-        assertSame("age", "23", "23");
+        assertSame("age", personClass.getAge(), 23);
     }
 
 

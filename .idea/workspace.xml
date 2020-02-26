@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5f937d4-010b-4287-9558-88483dd803fd" name="Default Changelist" comment="" />
+    <list default="true" id="a5f937d4-010b-4287-9558-88483dd803fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/sonia/PersonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/sonia/PersonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/sonia/PersonClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/sonia/PersonClassTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y9VcPOiIT2XGBLbXfxKwGvR5RK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -52,7 +62,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonClassTest.temporarilyDisabledTest">
+  <component name="RunManager" selected="JUnit.PersonClassTest.getName">
     <configuration name="PersonClassTest.getAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ADP_Prac2" />
       <extension name="coverage">
@@ -119,10 +129,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonClassTest.getName" />
         <item itemvalue="JUnit.PersonClassTest.temporarilyDisabledTest" />
         <item itemvalue="JUnit.PersonClassTest.getAge" />
         <item itemvalue="JUnit.PersonClassTest.getSurname" />
-        <item itemvalue="JUnit.PersonClassTest.getName" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +148,8 @@
       <updated>1582354879074</updated>
       <workItem from="1582354894372" duration="6580000" />
       <workItem from="1582362980791" duration="78000" />
+      <workItem from="1582363370779" duration="1571000" />
+      <workItem from="1582737713564" duration="426000" />
     </task>
     <servers />
   </component>
@@ -149,26 +161,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582359425122" />
-    <state width="637" height="146" key="GridCell.Tab.0.bottom" timestamp="1582362309747">
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom" timestamp="1582737918132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582362309747" />
-    <state width="637" height="146" key="GridCell.Tab.0.center" timestamp="1582362309747">
+    <state width="1323" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582737918132" />
+    <state width="1323" height="146" key="GridCell.Tab.0.center" timestamp="1582737918132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582362309747" />
-    <state width="637" height="146" key="GridCell.Tab.0.left" timestamp="1582362309746">
+    <state width="1323" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582737918132" />
+    <state width="1323" height="146" key="GridCell.Tab.0.left" timestamp="1582737918127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582362309746" />
-    <state width="637" height="146" key="GridCell.Tab.0.right" timestamp="1582362309747">
+    <state width="1323" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582737918127" />
+    <state width="1323" height="146" key="GridCell.Tab.0.right" timestamp="1582737918132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582362309747" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582354894402">
+    <state width="1323" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582737918132" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582737717815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582354894402" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582737717815" />
     <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582359441417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -179,7 +191,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ac/za/sonia/PersonClassTest.java</url>
-          <line>52</line>
+          <line>55</line>
           <properties class="ac.za.sonia.PersonClassTest" method="temporarilyDisabledTest">
             <option name="EMULATED" value="true" />
           </properties>
